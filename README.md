@@ -1,2 +1,3 @@
 # eatAlone
-Android App Dev Lec
+Android App Dev Lectures.
+
